@@ -97,10 +97,11 @@ with open("daily_report.txt", "r") as file:
 	lines = file.readlines()
 	
 	
-if len(lines)<20: 
+if len(lines)<78: 
 	recent_lines=lines
 else:
-	recent_lines=lines[-20:]
+	recent_lines=lines[-78:]
 	
 numbered = [f'{i}:{line.strip()}' for i, line in enumerate(recent_lines, start=1)]
 print("\n".join(numbered))
+

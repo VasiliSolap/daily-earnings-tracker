@@ -1,0 +1,202 @@
+===2025-10-28===
+Location: Seattle (+10%)
+Total before tax: $11.00
+Tax (52.0%): -$5.72
+Net earnings: $5.28
+Earnings per hour: $0.88
+
+===2025-10-28===
+Location: Lynnwood (+5%)
+Total before tax: $36.75
+Tax (45.0%): -$16.54
+Net earnings: $20.21
+Earnings per hour: $2.53
+
+===2025-10-29===
+Location: Seattle (+10%)
+Total before tax: $4.40
+Tax (2.0%): -$0.09
+Net earnings: $4.31
+Earnings per hour: $2.16
+
+===2025-10-29===
+Location: Lynnwood (+5%)
+Total before tax: $4.20
+Tax (2.0%): -$0.08
+Net earnings: $4.12
+Earnings per hour: $2.06
+
+===2025-10-29===
+Location: Lynnwood (+5%)
+Total before tax: $4.20
+Tax (2.0%): -$0.08
+Net earnings: $4.12
+Earnings per hour: $2.06
+
+===2025-10-29===
+Location: Lynnwood (+5%)
+Total before tax: $4.20
+Tax (2.0%): -$0.08
+Net earnings: $4.12
+Earnings per hour: $2.06
+
+===2025-10-29===
+Location: Seattle (+10%)
+Total before tax: $6.60
+Tax (3.0%): -$0.20
+Net earnings: $6.40
+Earnings per hour: $3.20
+
+===2025-10-29===
+Location: Lynnwood (+5%)
+Total before tax: $12.60
+Tax (10.0%): -$1.26
+Net earnings: $11.34
+Earnings per hour: $1.42
+
+===2025-10-30===
+Location: Bellevue (+15%)
+Total before tax: $230.00
+Tax (15.0%): -$34.50
+Net earnings: $195.50
+Earnings per hour: $24.44
+
+===2025-10-30===
+Location: Seattle (+10%)
+Total before tax: $2.20
+Tax (4.0%): -$0.09
+Net earnings: $2.11
+Earnings per hour: $0.70
+
+===2025-10-30===
+Location: Lynnwood (+5%)
+Total before tax: $4.20
+Tax (2.0%): -$0.08
+Net earnings: $4.12
+Earnings per hour: $2.06
+
+===2025-10-30===
+Location: Seattle (+10%)
+Total before tax: $1.10
+Tax (1.0%): -$0.01
+Net earnings: $1.09
+Earnings per hour: $1.09
+
+===2025-10-30===
+Location: Seattle (+10%)
+Total before tax: $1.10
+Tax (1.0%): -$0.01
+Net earnings: $1.09
+Earnings per hour: $1.09
+
+===2025-10-30===
+Location: Seattle (+10%)
+Total before tax: $6.60
+Tax (5.0%): -$0.33
+Net earnings: $6.27
+Earnings per hour: $1.57
+
+===2025-10-30===
+Location: Seattle (+10%)
+Total before tax: $1.10
+Tax (1.0%): -$0.01
+Net earnings: $1.09
+Earnings per hour: $1.09
+
+===2025-10-30===
+Location: Lynnwood (+5%)
+Total before tax: $4.20
+Tax (2.0%): -$0.08
+Net earnings: $4.12
+Earnings per hour: $2.06
+
+===2025-10-30===
+Location: Lynnwood (+5%)
+Total before tax: $4.20
+Tax (2.0%): -$0.08
+Net earnings: $4.12
+Earnings per hour: $2.06
+
+===2025-10-30===
+Location: Lynnwood (+5%)
+Total before tax: $4.20
+Tax (2.0%): -$0.08
+Net earnings: $4.12
+Earnings per hour: $2.06
+
+===2025-10-30===
+Location: Lynnwood (+5%)
+Total before tax: $4.20
+Tax (2.0%): -$0.08
+Net earnings: $4.12
+Earnings per hour: $2.06
+
+===2025-10-30===
+Location: Lynnwood (+5%)
+Total before tax: $4.20
+Tax (2.0%): -$0.08
+Net earnings: $4.12
+Earnings per hour: $2.06
+
+===2025-10-30===
+Location: Lynnwood (+5%)
+Total before tax: $4.20
+Tax (2.0%): -$0.08
+Net earnings: $4.12
+Earnings per hour: $2.06
+
+===2025-10-30===
+Location: Lynnwood (+5%)
+Total before tax: $4.20
+Tax (2.0%): -$0.08
+Net earnings: $4.12
+Earnings per hour: $2.06
+
+===2025-10-30===
+Location: Lynnwood (+5%)
+Total before tax: $4.20
+Tax (2.0%): -$0.08
+Net earnings: $4.12
+Earnings per hour: $2.06
+
+===2025-10-30===
+Location: Lynnwood (+5%)
+Total before tax: $4.20
+Tax (2.0%): -$0.08
+Net earnings: $4.12
+Earnings per hour: $2.06
+
+===2025-10-30===
+Location: Lynnwood (+5%)
+Total before tax: $4.20
+Tax (2.0%): -$0.08
+Net earnings: $4.12
+Earnings per hour: $2.06
+
+===2025-10-30===
+Location: N/A (+0%)
+Total before tax: $1200.00
+Tax (10.0%): -$120.00
+Net earnings: $1080.00
+Earnings per hour: $108.00
+
+===2025-10-31===
+Location: Seattle (+10%)
+Total before tax: $33.00
+Tax (10.0%): -$3.30
+Net earnings: $29.70
+Earnings per hour: $2.97
+
+===2025-10-31===
+Location: Lynnwood (+5%)
+Total before tax: $105.00
+Tax (19.0%): -$19.95
+Net earnings: $85.05
+Earnings per hour: $8.50
+
+===2025-10-31===
+Location: Seattle (+10%)
+Total before tax: $176.00
+Tax (10.0%): -$17.60
+Net earnings: $158.40
+Earnings per hour: $31.68
