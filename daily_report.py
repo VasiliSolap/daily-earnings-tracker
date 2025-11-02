@@ -105,3 +105,6 @@ else:
 numbered = [f'{i}:{line.strip()}' for i, line in enumerate(recent_lines, start=1)]
 print("\n".join(numbered))
 
+
+
+
