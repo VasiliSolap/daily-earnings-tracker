@@ -96,14 +96,30 @@ with open("daily_report.txt", "a") as file:
 with open("daily_report.txt", "r") as file:
 	lines = file.readlines()
 	
-	
-if len(lines)<78: 
+
+if len(lines)<48: 
 	recent_lines=lines
 else:
-	recent_lines=lines[-78:]
-	
-numbered = [f'{i}:{line.strip()}' for i, line in enumerate(recent_lines, start=1)]
-print("\n".join(numbered))
+	recent_lines=lines[-48:]
+
+totals=[]
+
+for line in lines:
+ 	if "Net earnings:" in line:
+ 		value = float(line.split("$")[1])
+ 		totals.append(value)
+ 		
+if totals:
+ 	weekly_totals = sum(totals)
+ 	print(f"💵Weekly total ernings: ${weekly_totals:.2f}")
+else:
+ 	print("❌No earnings found in file")
+
+
+ 	
+ 	
+#numbered = [f'{i}:{line.strip()}' for i, line in enumerate(recent_lines, start=1)]
+#print("\n".join(numbered))
 
 
 
